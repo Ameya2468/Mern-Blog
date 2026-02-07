@@ -5,7 +5,7 @@ import About from './pages/About'
 import Projects from './pages/Projects'
 import Dashboard from './pages/Dashboard'
 import SignIn from './pages/Signin'
-import SignUp from './pages/Signup'
+import SignUp from './pages/SignUp'
 import Header from './components/Header'
 
 export default function App() {
